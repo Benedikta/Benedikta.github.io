@@ -1,7 +1,7 @@
 body{
-	background-color: gray
+	background-color: #0B0B61
 }
 
 h1,p{
-	color: white;
+	color: #E6E6E6;
 }
