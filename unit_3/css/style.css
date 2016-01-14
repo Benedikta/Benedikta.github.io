@@ -3,17 +3,24 @@ body{
 	
 }
 h1{
-	color:#251158;
+	color:#005290;
 	text-align: center;
+	text-transform: uppercase
 }
 p{
 	color:#696161;
+	text-align: center;
 }
 ul{
 	color:#696161;
+	text-align: center;
 }
 li{
 	color:#696161;
+	text text-align: center;
+}
+img{
+	text-align: center;
 }
 #slogan{
 	color:#696161;
