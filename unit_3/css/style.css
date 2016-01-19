@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Muli);
+
 body{
 	background-color:#f9f4f4;
 }
@@ -7,6 +9,7 @@ h1, p, li, img, #slogan{
 h1{
 	color:#005290;
 	text-transform: uppercase;
+	font-family: 'Muli', sans-serif;
 }
 p{
 	color:#696161;
