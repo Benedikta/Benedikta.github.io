@@ -8,7 +8,8 @@ h1, p, li, img, #slogan{
 }
 h1{
 	color:#005290;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Muli', sans-serif
+	font-weight: bold;
 }
 p{
 	color:#696161;
