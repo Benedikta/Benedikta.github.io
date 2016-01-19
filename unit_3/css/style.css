@@ -8,7 +8,6 @@ h1, p, li, img, #slogan{
 }
 h1{
 	color:#005290;
-	text-transform: uppercase;
 	font-family: 'Muli', sans-serif;
 }
 p{
