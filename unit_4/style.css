@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Muli);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
+body{
+	background-color:#f9f4f4;
+}
+h1, p, li, ul, img, #slogan{
+	text-align: center;
+}
+h1{
+	color:#005290;
+	font-family: 'Muli', sans-serif;
+	font-weight: bold;
+}
+p{
+	color:#696161;
+	font-family: 'Lora', serif;
+}
+li{
+	color:#696161;
+	font-family: 'Lora', serif;
+}
+#slogan{
+	color:#696161;
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
+ul {
+    color:#696161;
+    text-align: center;
+    list-style-type: none;
+    font-family: 'Lora', serif;
+}
