@@ -83,15 +83,7 @@ div {
     border: 1px black solid;
     padding: 20px;
     float: right;
-    width: 31%;
-}
-
-#middle {
-    background-color: #ff9999;
-    border: 1px black solid;
-    padding: 20px;
-    float: middle;
-    width: 31%;
+    width: 62%;
 }
 
 .clearfix:after {
