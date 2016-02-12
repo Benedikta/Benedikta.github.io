@@ -90,4 +90,6 @@ div {
     background-color: #ff9999;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 31%;
 }
