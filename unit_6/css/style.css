@@ -93,3 +93,12 @@ div {
     float: middle;
     width: 31%;
 }
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: "footer";
+    clear: both;
+    height: 0;
+}
